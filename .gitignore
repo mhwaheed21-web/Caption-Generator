@@ -1,0 +1,4 @@
+__pycache__/
+.env
+caption_gen/
+
